@@ -1,6 +1,6 @@
 {
-    "name": "Mickey 💖",   
-    "logo": "https://te.legra.ph/file/da880df27058a953ea175.png", 
+    "name": "ᴘRIYANSHI💖",   
+    "logo": "https://telegra.ph/file/cb99c7565c793649e556f.jpg", 
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
@@ -21,7 +21,7 @@
         "OWNER_ID": {
             "description": "Your Id Here! For Eg: 54326909.",
             "required": true,
-            "value": "5350929381"
+            "value": "5847378475"
         },
         "BOT_NAME": {
             "description": "Simple Bot-name. Do not use Modified Text..",
