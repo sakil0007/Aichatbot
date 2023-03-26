@@ -318,7 +318,7 @@ async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
     await msg.reply_photo(
-        photo="https://te.legra.ph/file/2d5b054acddf865d4d83e.png",
+        photo="https://telegra.ph//file/c1602a8975a50380b7b0f.png",
         caption=f"ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}\n\n➻ **ᴄʜᴀᴛs :** {chats}\n➻ **ᴜsᴇʀs :** {users}",
     )
 
@@ -577,5 +577,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Wᴇ_ʀғʀɪᴇɴᴅs ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @VipFreinds !!")      
 bot.run()
